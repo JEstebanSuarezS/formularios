@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+
+.formulario{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    background: -webkit-linear-gradient(rgba(255, 255, 255, 0.157), rgb(0, 204, 255));
+    height: 60vh;
+}
+
+.lottie{
+    background-color: rgb(255, 255, 255);
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
